@@ -1,0 +1,25 @@
+body {
+  background-color: #f1f1f1;
+}
+
+.form-container {
+  padding: 20px;
+  border-radius: 20px;
+  background-color: #fff;
+  margin-top: 10px;
+}
+
+.label {
+  font-weight: 500;
+}
+
+.razorpay-payment-button {
+  background-color: #00bd68;
+  border-radius: 5px;
+  color: #ffffff;
+  cursor: pointer;
+  height: 44px;
+  line-height: 44px;
+  width: 100%;
+  border: 0;
+}
